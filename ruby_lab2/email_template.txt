@@ -1,0 +1,20 @@
+Script started on Sat Mar 23 20:01:32 2019
+[?1034hbash-3.2$ ./email_template.rb
+Company 1
+123 Main Street
+Anytown, Anystate, 88888
+Tel: 444-444-4444
+Email: CompanyOne@companyone.com
+URL: https://company1.com
+------------------------------
+Company 2
+77 Market Street
+San Fransisco, California, 94111
+Tel: 415-444-4444
+Email: Company2@company2.com
+URL: htttps://company2.com
+------------------------------
+bash-3.2$ exit
+exit
+
+Script done on Sat Mar 23 20:01:45 2019
